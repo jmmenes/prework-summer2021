@@ -16,7 +16,7 @@ Please watch this video from one of our instructors to complete the following st
 3. Copy the HTTPS git url to your forked copy prework repository
 4. Clone down your copy of the prework repository to your local machine in a terminal session
 
-## Vets In Tech Prework Assignment
+## Vets In Tech Pre-work Assignment
 
 In this program, we will show you explicitly how to do everything that we expect from you but to ensure that the course runs smoothly for every participant
 there is a base skill level that you will need to meet. This project will determine your readiness to keep up with the pace of the program.
